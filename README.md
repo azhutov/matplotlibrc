@@ -27,7 +27,7 @@ plt.style.use('TQT-RAAQS')
 
 plt.plot(x, y)
 
-# or temporarly set style (textwidth style sets figure site to the two column width)
+# or temporarly set style (textwidth style sets figure size to the two column width)
 with plt.style.context(['TQT-RAAQS', 'textwidth']):
     plt.figure()
     plt.plot(x, y)
