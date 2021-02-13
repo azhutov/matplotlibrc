@@ -1,0 +1,11 @@
+\documentclass[twocolumn, prl]{revtex4-1}
+
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\begin{document}
+The document class of this latex file is two column revtex4-1. For this document the text width is \the\textwidth~and the column width is \the\columnwidth. To transform those values into inches, use the fact 1pt is 1/72.27 inch \url{https://www.overleaf.com/learn/latex/Lengths_in_LaTeX}.
+A figure that has a width of \the\columnwidth.
+\includegraphics[width=\columnwidth]{example-image-a}
+
+\end{document}
