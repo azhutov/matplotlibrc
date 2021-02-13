@@ -35,10 +35,10 @@ with plt.style.context([TQT-RAAQS', textwidth']):
 
 # Example plot
 
-<img src="https://github.com/azhutov/matplotlibrc/blob/main/examples/figures/figure_scatter.png?raw=true" width="500">
+<img src="https://github.com/azhutov/matplotlibrc/blob/master/examples/figures/figure_scatter.png?raw=true" width="500">
 
 Palette
-<img src="https://github.com/azhutov/matplotlibrc/blob/main/examples/figures/figure_palette.png?raw=true" width="500">
+<img src="https://github.com/azhutov/matplotlibrc/blob/master/examples/figures/figure_palette.png?raw=true" width="500">
 
 # Resources
 
